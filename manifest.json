@@ -1,16 +1,16 @@
 {
-  "id": "dev.replugged.ThemeTemplate",
-  "name": "Theme Template",
-  "description": "A theme template",
+  "id": "dev.milenakos.DimmedDiscord",
+  "name": "Dimmed Disord",
+  "description": "An awful theme",
   "author": {
-    "name": "replugged",
-    "discordID": "1000992611840049192",
-    "github": "replugged-org"
+    "name": "Milenakos",
+    "discordID": "553093932012011520",
+    "github": "milena-kos"
   },
   "version": "1.0.0",
   "updater": {
     "type": "github",
-    "id": "replugged-org/theme-template"
+    "id": "milena-kos/dimmed-discord"
   },
   "license": "MIT",
   "type": "replugged-theme",
