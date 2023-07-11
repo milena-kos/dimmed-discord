@@ -1,12 +1,32 @@
-.theme-dark {
+:root {
   --background-primary: rgb(41, 41, 41);
+  --bg-overlay-chat: rgb(33, 33, 33);
+  --bg-overlay-2: rgb(30, 31, 34);
   --background-secondary: rgb(30, 31, 34);
   --background-tertiary: rgb(20, 20, 20);
   --scrollbar-auto-track: rgb(50, 51, 54);
   --channeltextarea-background: rgb(50, 50, 50);
 }
 
-.theme-dark .autocomplete-3NRXG8,
+.lookFilled-1H2Jvj.colorPrimary-2-Lusz {
+  background-color: rgb(50, 50, 50);
+}
+
+.autocomplete-3NRXG8,
 .categoryHeader-OpJ1Ly {
   background-color: rgb(30, 31, 34);
+}
+
+.userProfileInnerThemedNonPremium-2AJg-H {
+  background: rgb(36, 36, 36);
+}
+
+.contentWrapper-3vHNP2 {
+  background-color: rgb(36, 36, 36);
+}
+
+.bodyWrapper-1eSOtW,
+.wrapper-1NNaWG,
+.inspector-DFKXwB {
+  background-color: rgb(21, 21, 21);
 }
