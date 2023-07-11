@@ -1,11 +1,12 @@
 .theme-dark {
-  --background-primary: rgb(41, 41, 41);
-  --background-secondary: rgb(30, 31, 34);
-  --background-tertiary: rgb(20, 20, 20);
-  --scrollbar-auto-track: rgb(50, 51, 54);
-  --channeltextarea-background: rgb(50, 50, 50);
+  --background-primary: rgb(41, 41, 41);
+  --background-secondary: rgb(30, 31, 34);
+  --background-tertiary: rgb(20, 20, 20);
+  --scrollbar-auto-track: rgb(50, 51, 54);
+  --channeltextarea-background: rgb(50, 50, 50);
 }
 
-.theme-dark .autocomplete-3NRXG8, .categoryHeader-OpJ1Ly {
-  background-color: rgb(30, 31, 34);
+.theme-dark .autocomplete-3NRXG8,
+.categoryHeader-OpJ1Ly {
+  background-color: rgb(30, 31, 34);
 }
