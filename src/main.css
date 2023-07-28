@@ -1,40 +1,43 @@
 :root {
   --background-primary: rgb(41, 41, 41);
-  --bg-overlay-chat: rgb(33, 33, 33);
-  --bg-overlay-2: rgb(30, 31, 34);
   --background-secondary: rgb(30, 31, 34);
   --background-tertiary: rgb(20, 20, 20);
-  --scrollbar-auto-track: rgb(50, 51, 54);
+
+  --bg-overlay-chat: rgb(33, 33, 33);
   --channeltextarea-background: rgb(50, 50, 50);
-  --home-background: rgb(33, 33, 33);
-  --modal-background: rgb(33, 33, 33);
-  --modal-footer-background: rgb(41, 41, 41);
+  --profile-background: rgb(36, 36, 36);
+
+  --scrollbar-auto-track: var(--channeltextarea-background);
+  --bg-overlay-2: var(--background-secondary);
+  --home-background: var(--bg-overlay-chat);
+  --modal-background: var(--bg-overlay-chat);
+  --modal-footer-background: var(--background-primary);
 }
 
 .lookFilled-1H2Jvj.colorPrimary-2-Lusz {
-  background-color: rgb(50, 50, 50);
+  background-color: var(--channeltextarea-background);
 }
 
 .autocomplete-3NRXG8,
 .categoryHeader-OpJ1Ly {
-  background-color: rgb(30, 31, 34);
+  background-color: var(--background-secondary);
 }
 
 .userProfileInnerThemedNonPremium-2AJg-H,
 .contentWrapper-3vHNP2 {
-  background: rgb(36, 36, 36);
+  background: var(--profile-background);
 }
 
 .bodyWrapper-1eSOtW,
 .wrapper-1NNaWG,
 .inspector-DFKXwB {
-  background-color: rgb(21, 21, 21);
+  background-color: var(--background-tertiary);
 }
 
 .messageContainer-3VTXBC,
 .messages-23can0,
 .messageGroupCozy-3v_RqN {
-  background-color: rgb(41, 41, 41) !important;
+  background-color: var(--background-primary) !important;
 }
 
 .container-2IKOsH,
@@ -48,7 +51,7 @@
 .directoryContainer-z-0pgp,
 .scroller-145h9c,
 .list-3YHPPb {
-  background-color: rgb(33, 33, 33) !important;
+  background-color: var(--bg-overlay-chat) !important;
 }
 
 .children-3xh0VB:after {
