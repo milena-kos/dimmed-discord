@@ -7,8 +7,8 @@
   --scrollbar-auto-track: rgb(50, 51, 54);
   --channeltextarea-background: rgb(50, 50, 50);
   --home-background: rgb(33, 33, 33);
-  --modal-background: rgb(33,33,33);
-  --modal-footer-background: rgb(41,41,41);
+  --modal-background: rgb(33, 33, 33);
+  --modal-footer-background: rgb(41, 41, 41);
 }
 
 .lookFilled-1H2Jvj.colorPrimary-2-Lusz {
@@ -31,8 +31,10 @@
   background-color: rgb(21, 21, 21);
 }
 
-.messageContainer-3VTXBC, .messages-23can0, .messageGroupCozy-3v_RqN {
-  background-color: rgb(41,41,41) !important;
+.messageContainer-3VTXBC,
+.messages-23can0,
+.messageGroupCozy-3v_RqN {
+  background-color: rgb(41, 41, 41) !important;
 }
 
 .container-2IKOsH,
