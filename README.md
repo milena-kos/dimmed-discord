@@ -1,3 +1,9 @@
-# Replugged theme template
+# Dimmed Discord
 
-See the [theme development guide](https://guide.replugged.dev/docs/themes/getting-started) for more information on using this template.
+![Preview](https://media.discordapp.net/attachments/1134519858034389026/1134522352814800956/image.png)
+
+## Install
+
+Vencord - `https://raw.githubusercontent.com/milena-kos/dimmed-discord/main/src/main.css`
+
+Replugged - [Click here! (Please note this is an unofficial addon bc im lazy)](https://replugged.dev/install?identifier=milena-kos/dimmed-discord&source=github)
