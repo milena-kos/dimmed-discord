@@ -54,6 +54,7 @@
   background-color: var(--bg-overlay-chat) !important;
 }
 
-.children-3xh0VB:after {
+.children-3xh0VB:after,
+.form-3gdLxP:before {
   display: none;
 }
