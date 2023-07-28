@@ -18,16 +18,19 @@
   background-color: rgb(30, 31, 34);
 }
 
-.userProfileInnerThemedNonPremium-2AJg-H {
-  background: rgb(36, 36, 36);
-}
-
+.userProfileInnerThemedNonPremium-2AJg-H,
 .contentWrapper-3vHNP2 {
-  background-color: rgb(36, 36, 36);
+  background: rgb(36, 36, 36);
 }
 
 .bodyWrapper-1eSOtW,
 .wrapper-1NNaWG,
 .inspector-DFKXwB {
   background-color: rgb(21, 21, 21);
+}
+
+.container-2IKOsH,
+.emptyPage-2TGR7j,
+.scrollerContainer-y16Rs9 {
+  background-color: rgb(33, 33, 33) !important;
 }
