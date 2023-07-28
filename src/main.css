@@ -19,7 +19,8 @@
 }
 
 .autocomplete-3NRXG8,
-.categoryHeader-OpJ1Ly {
+.categoryHeader-OpJ1Ly,
+code.inline {
   background-color: var(--background-secondary);
 }
 
@@ -36,7 +37,8 @@
 
 .messageContainer-3VTXBC,
 .messages-23can0,
-.messageGroupCozy-3v_RqN {
+.messageGroupCozy-3v_RqN,
+code.inline {
   background-color: var(--background-primary) !important;
 }
 
