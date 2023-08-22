@@ -9,39 +9,19 @@
   ],
   "spec": 2,
   "semanticColors": {
-    "BACKGROUND_PRIMARY": [
-      "#292929"
-    ],
-    "MODAL_BACKGROUND": [
-      "#292929"
-    ],
-    "CHAT_INPUT_CONTAINER_BACKGROUND": [
-      "#292929"
-    ],
+    "BACKGROUND_PRIMARY": ["#292929"],
+    "MODAL_BACKGROUND": ["#292929"],
+    "CHAT_INPUT_CONTAINER_BACKGROUND": ["#292929"],
 
-    "CHAT_BACKGROUND": [
-      "#212121"
-    ],
+    "CHAT_BACKGROUND": ["#212121"],
 
-    "BACKGROUND_SECONDARY": [
-      "#1e1f22"
-    ],
-    "BACKGROUND_MOBILE_PRIMARY": [
-      "#1e1f22"
-    ],
-    "BACKGROUND_MOBILE_SECONDARY": [
-      "#1e1f22"
-    ],
+    "BACKGROUND_SECONDARY": ["#1e1f22"],
+    "BACKGROUND_MOBILE_PRIMARY": ["#1e1f22"],
+    "BACKGROUND_MOBILE_SECONDARY": ["#1e1f22"],
 
-    "BACKGROUND_TERTIARY": [
-      "#141414"
-    ],
-    "BACKGROUND_SECONDARY_ALT": [
-      "#141414"
-    ],
-    "BACKGROUND_FLOATING": [
-      "#242424"
-    ]
+    "BACKGROUND_TERTIARY": ["#141414"],
+    "BACKGROUND_SECONDARY_ALT": ["#141414"],
+    "BACKGROUND_FLOATING": ["#242424"]
   },
   "rawColors": {
     "PRIMARY_600": "#292929"
