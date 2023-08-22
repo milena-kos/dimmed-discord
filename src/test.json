@@ -16,7 +16,7 @@
 	  "CHAT_BACKGROUND": ["#ffffff"],
 	  "CHAT_INPUT_CONTAINER_BACKGROUND": ["#ff00ff"],
 	  "INTERACTIVE_HOVER": ["#00ffff"],
-	  "SCROLLBAR_AUTO_THUMB": ["#ffff00"],
+	  "SCROLLBAR_AUTO_THUMB": ["#ffff00"]
   },
 	"rawColors": {
 		"PRIMARY_600": "#123456"
