@@ -23,5 +23,8 @@
     "BACKGROUND_MODIFIER_HOVER": ["#141414"],
     
     "BACKGROUND_FLOATING": ["#242424"]
+  },
+  "rawColors": {
+    "PRIMARY_600": "#141414"
   }
 }
