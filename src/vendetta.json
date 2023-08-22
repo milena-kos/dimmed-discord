@@ -9,18 +9,18 @@
   ],
   "spec": 2,
   "semanticColors": {
-    "BACKGROUND_PRIMARY": [rgba(41, 41, 41, 1)],
+    "BACKGROUND_PRIMARY": ["#292929"],
     
-    "CHAT_BACKGROUND": [rgba(33, 33, 33, 1)],
+    "CHAT_BACKGROUND": ["#212121"],
     
-    "BACKGROUND_SECONDARY": [rgba(30, 31, 34, 1)],
-    "BACKGROUND_SECONDARY_ALT": [rgba(30, 31, 34, 1)],
-    "BACKGROUND_MOBILE_PRIMARY": [rgba(30, 31, 34, 1)],
-    "BACKGROUND_MOBILE_SECONDARY": [rgba(30, 31, 34, 1)],
+    "BACKGROUND_SECONDARY": ["#1e1f22"],
+    "BACKGROUND_SECONDARY_ALT": ["#1e1f22"],
+    "BACKGROUND_MOBILE_PRIMARY": ["#1e1f22"],
+    "BACKGROUND_MOBILE_SECONDARY": ["#1e1f22"],
     
-    "BACKGROUND_TERTIARY": [rgba(20, 20, 20, 1)],
-    "BACKGROUND_MODIFIER_HOVER": [rgba(20, 20, 20, 1)],
+    "BACKGROUND_TERTIARY": ["#141414"],
+    "BACKGROUND_MODIFIER_HOVER": ["#141414"],
     
-    "BACKGROUND_FLOATING": [rgba(36, 36, 36, 1)]
+    "BACKGROUND_FLOATING": ["#242424"]
   }
 }
