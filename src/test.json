@@ -1,0 +1,24 @@
+{
+  "name": "testing",
+  "description": "finding the color",
+  "authors": [
+      {
+        "name": "Milenakos",
+        "id": "553093932012011520"
+      }
+  ],
+  "spec": 2,
+  "semanticColors": {
+    "BACKGROUND_PRIMARY": ["#ff0000"],
+    "BACKGROUND_MOBILE_PRIMARY": ["#00ff00"],
+	  "BUTTON_OUTLINE_PRIMARY_BACKGROUND_ACTIVE": ["#0000ff"],
+	  "BUTTON_OUTLINE_PRIMARY_BORDER_ACTIVE": ["#000000"],
+	  "CHAT_BACKGROUND": ["#ffffff"],
+	  "CHAT_INPUT_CONTAINER_BACKGROUND": ["#ff00ff"],
+	  "INTERACTIVE_HOVER": ["#00ffff"],
+	  "SCROLLBAR_AUTO_THUMB": ["#ffff00"],
+  },
+	"rawColors": {
+		"PRIMARY_600": "#123456"
+	}
+}
