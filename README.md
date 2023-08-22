@@ -7,3 +7,5 @@
 Vencord - `https://raw.githubusercontent.com/milena-kos/dimmed-discord/main/src/main.css`
 
 Replugged - [Click here! (Please note this is an unofficial addon bc im lazy)](https://replugged.dev/install?identifier=milena-kos/dimmed-discord&source=github)
+
+Vendetta - `https://github.com/milena-kos/dimmed-discord/raw/main/src/vendetta.json`
