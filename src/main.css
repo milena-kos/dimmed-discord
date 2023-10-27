@@ -18,52 +18,7 @@
   --modal-footer-background: var(--background-primary);
 }
 
-.messageContainer-3VTXBC,
-.messages-23can0,
-.messageGroupCozy-3v_RqN {
-  background-color: var(--dimmed-primary) !important;
-}
-
-.autocomplete-3NRXG8,
-.categoryHeader-OpJ1Ly,
-code.inline {
-  background-color: var(--dimmed-secondary) !important;
-}
-
-.bodyWrapper-1eSOtW,
-.wrapper-1NNaWG,
-.wrapper-i1awk3 {
-  background-color: var(--dimmed-tertiary);
-}
-
-.lookFilled-1H2Jvj.colorPrimary-2-Lusz {
-  background-color: var(--channeltextarea-background) !important;
-}
-
-.userProfileInnerThemedNonPremium-2AJg-H,
-.contentWrapper-3vHNP2,
-.userPanelInnerThemed-3YO1BB {
-  background: var(--profile-background) !important;
-}
-
-.container-2IKOsH,
-.emptyPage-2TGR7j,
-.scrollerContainer-y16Rs9,
-.header-3xB4vB,
-.container-1um7CU,
-.pageWrapper-2PwDoS,
-.messagesPopout-eVzQcI,
-.channelHeader-DFRX8q,
-.directoryContainer-z-0pgp,
-.scroller-145h9c,
-.list-3YHPPb,
-.inspector-DFKXwB {
-  background-color: var(--bg-overlay-chat) !important;
-}
-
-.children-3xh0VB:after,
-.form-3gdLxP:before,
-.form-3qe0Ni:before,
-.form__13a2c:before {
+[class*="children"]:after,
+[class*="form"]:before {
   display: none !important;
 }
